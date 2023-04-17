@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desarrollador Jr<br>Experiencia en Python y Java<br>Conocimiento de bases de datos SQL<br>Busco proyectos para colaborar y ganar experiencia<br>Actualmente aprendo desarrollo web (HTML, CSS, JS)
+Desarrollador Jr<br>Conocimientos en Python y Java<br>Conocimiento de manejo bases de datos SQL<br>Busco proyectos para colaborar y ganar experiencia<br>Actualmente aprendo desarrollo web (HTML, CSS, JS)
 
 
 ## 🌐 Socials:
