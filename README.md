@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desarrollador Jr<br>Experiencia en Python, C++, Ionic<br>Conocimiento de manejo bases de datos SQL<br>
+Desarrollador Jr<br>Estudiante de Ing. Informática<br>Experiencia en Python, C++, Ionic<br>Conocimiento de manejo bases de datos SQL<br>
 
 
 ## 🌐 Socials:
